@@ -1,0 +1,16 @@
+# macOS metadata
+.DS_Store
+
+# Xcode build output
+Build/
+DerivedData/
+
+# Xcode user-local state
+xcuserdata/
+*.xcuserstate
+*.moved-aside
+*.xccheckout
+*.xcscmblueprint
+
+# Package.resolved is intentionally not ignored. Application projects normally
+# retain their resolved dependency graph unless repository policy says otherwise.
