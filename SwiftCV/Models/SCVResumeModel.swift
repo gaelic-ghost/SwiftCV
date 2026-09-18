@@ -5,7 +5,7 @@
 //  Created by Gale Williams on 9/18/26.
 //
 
-import SwiftUI
+import SwiftData
 
 @Model
 final class SCVResumeModel {
